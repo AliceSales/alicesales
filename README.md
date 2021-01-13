@@ -1,4 +1,6 @@
-### Hi there 👋
+https://github.com/AliceSales
+
+### Tenho 19 anos, sou técnica em informática pela ETE-Antônio Arruda de Farias. Atualmente, sou graduanda em Ciência da Computação na UFPE-Universidade Federal de Pernambuco (Recife,PE). Estou me aperfeiçoando no desenvolvimento mobile e sou apaixonada por programação, estou sempre buscando aprender.
 
 <!--
 **AliceSales/alicesales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
