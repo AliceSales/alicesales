@@ -22,7 +22,6 @@
   - [Linkedin](https://www.linkedin.com/in/alice-sales-8a0a26200/)
   - [Instagram Pessoal](https://www.instagram.com/katespinhos/)
   - [E-mail](mailto:programmeralice@gmail.com)
-  - [Instagram Criadora de Conteúdo](https://www.instagram.com/alicecc.studies/)
   
 <!--
 **AliceSales/alicesales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
