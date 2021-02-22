@@ -43,7 +43,7 @@
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=AliceSales&color=f2f3f5style=for-the-badge&logo=GitHub">
 
-[![Top linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=alicesales&layout=compact)](https://github.com/AliceSales/github-readme-stats)
+[![Top linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=alicesales&layout=compact)](https://github.com/AliceSales/github-readme)
 
 <hr>
 
