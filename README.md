@@ -1,22 +1,18 @@
-![Alice](https://media-exp1.licdn.com/dms/image/C5616AQFdlOYNy5xBqQ/profile-displaybackgroundimage-shrink_350_1400/0/1610474999402?e=1616025600&v=beta&t=scAETSN9RsRQLxEp1P57HYM02ULLo7ZIXilJktN40Rc)
+![Alice](https://github.com/AliceSales/challengesFrontMentor/blob/main/Alice%20sales.png)
 
 # About me
  
- Tenho 19 anos, sou técnica em informática pela ETE-Antônio Arruda de Farias. Atualmente, sou graduanda em Ciência da Computação na UFPE-Universidade Federal de Pernambuco (Recife,PE). Estou me aperfeiçoando no desenvolvimento mobile e sou apaixonada por programação.
+ Tenho 19 anos, sou técnica em informática pela ETE-Antônio Arruda de Farias. Atualmente, sou graduanda em Ciência da Computação na UFPE-Universidade Federal de Pernambuco (Recife,PE). Apaixonada por programação sigo estudando para me tornar uma desenvolvedora FrontEnd. #NEVERSTOPLEARNING
  
  :heart::books:
 
 # Tecnologies
 
   <!--ts-->
-   * Java
    * JavaScript
    * HTML
    * CSS
    * React
-   * Python
-   * React Native
-   * MySQL
   <!--te-->
   
  # Contact Me
