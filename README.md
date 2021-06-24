@@ -2,7 +2,7 @@
 
 # About me
  
- Tenho 19 anos, sou técnica em informática pela ETE-Antônio Arruda de Farias. Atualmente, sou graduanda em Ciência da Computação na UFPE-Universidade Federal de Pernambuco (Recife,PE). Apaixonada por programação sigo estudando para me tornar uma desenvolvedora FrontEnd. #NEVERSTOPLEARNING
+ Sou técnica em informática pela ETE-Antônio Arruda de Farias. Atualmente, sou graduanda em Ciência da Computação na UFPE-Universidade Federal de Pernambuco (Recife,PE). Apaixonada por programação sigo estudando para me tornar uma desenvolvedora FrontEnd. #NEVERSTOPLEARNING
  
  :heart::books:
 
