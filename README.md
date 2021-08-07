@@ -1,11 +1,11 @@
 <img src="https://i.ibb.co/KX2G185/k.png" alt="alice-banner" widht="1000" height="190" border="0">
 
-# Oiii! Eu sou Alice! 
- <h4>Técnica em informática pela ETE-Antônio Arruda de Farias. Atualmente, graduanda em Ciência da Computação @CIN na UFPE.</h4>
- <h4> Recife - PE <h4>
- <div style="display: inline_block">
-   <h4> Apaixonada por programação, livros, ukuleles e Front-End.</h4>
-   <code>#NEVERSTOPLEARNING</code>
+<h1> Oiii! Eu sou Alice!</h1>
+ <h3>Técnica em informática pela ETE-Antônio Arruda de Farias. Atualmente, graduanda em Ciência da Computação @CIN na UFPE.</h3>
+ <h3> Recife - PE <h3>
+ <div>
+  <h4> Apaixonada por programação, livros, ukuleles e Front-End.</h4>
+  <code>#NEVERSTOPLEARNING</code>
  </div>
  
  <br>
@@ -48,11 +48,11 @@
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=AliceSales&?color=894961style=for-the-badge&logo=GitHub"> 
 
-<div style="display: flex">
+<div style="display: inline_block">
 
 [![Top linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=alicesales&layout=extended&)](https://github.com/AliceSales/alicesales/blob/main/README.md)
 
-<img src="https://i.picasion.com/pic91/14cb408bbe1aacd4436984113e3b652c.gif" width="100" height="100" border="0" alt="alice-gif" align="right" />
+<img src="https://i.picasion.com/pic91/14cb408bbe1aacd4436984113e3b652c.gif" width="100" height="100" border="0" alt="alice-gif" align="right"/>
 
 </div>
 
