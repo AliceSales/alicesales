@@ -1,5 +1,3 @@
-<img src="https://i.ibb.co/KX2G185/k.png" alt="alice-banner" widht="1000" height="190" border="0">
-
  <h2> Oiii! Eu sou Alice!</h2>
  <h4>Técnica em informática pela ETE-Antônio Arruda de Farias. Atualmente, graduanda em Ciência da Computação @CIN na UFPE.</h4>
  
