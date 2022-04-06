@@ -24,6 +24,7 @@
      <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" widht="35" height="40"/>
      <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" widht="35" height="40"/>
      <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" widht="35" height="40"/>
+     <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" widht="35" height="40"/>
    </div
   <!--te-->
   
