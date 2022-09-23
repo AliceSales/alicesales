@@ -1,10 +1,12 @@
  <h2> Oiii! Eu sou Alice!</h2>
- <h4>Técnica em informática pela ETE-Antônio Arruda de Farias. Atualmente, graduanda em Ciência da Computação @CIN na UFPE.</h4>
+ <h4>Estudante de Ciência da Computação no Centro de Informática da UFPE, mantenho interesse pelas áreas de desenvolvimento front-end, desenvolvimento mobile e acessibilidade.
+Na minha experiência, sempre foquei em desenvolver minha comunicação em equipe e autogestão.
+Estudo desenvolvimento front-end há quase um ano, hoje com foco principal em semântica, acessibilidade e melhoria de performance.</h4>
  
 <div style="display: inline_block">
-  <h4> Apaixonada por programação, livros, ukuleles e Front-End.</h4>
+  <h4> Apaixonada por livros, ukuleles, meu gatinho e Front-End.</h4>
   <code>#NEVERSTOPLEARNING</code>
-  <img src="https://i.picasion.com/pic91/14cb408bbe1aacd4436984113e3b652c.gif" width="100" height="100" border="0" alt="alice-gif" align="right"/>
+  <img src="https://i.pinimg.com/originals/aa/10/0c/aa100cce8f5d95078a6074c5b4ccf520.gif" width="300" height="300" border="0" alt="alice-gif" align="right"/>
 </div>
 
   <br>
@@ -32,10 +34,10 @@
 
 <p align="left">
   <a href="mailto:programmeralice@gmail.com" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&logo=Gmail&logoColor=white&link=mailto:programmeralice@gmail.com/" widht="30" height="25"/></a>
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&logo=Gmail&logoColor=white&link=mailto:avss2@cin.ufpe.br/" widht="30" height="25"/></a>
 
   <a href="https://www.linkedin.com/in/alice-sales-8a0a26200/" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alice-sales-8a0a26200/" widht="30" height="25"/></a>
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alice-salessilva/" widht="30" height="25"/></a>
 
   <a href="https://www.instagram.com/katespinhos/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/katespinhos/" widht="30" height="25"/></a>
