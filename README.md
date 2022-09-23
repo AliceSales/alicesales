@@ -33,17 +33,14 @@ Estudo desenvolvimento front-end há quase um ano, hoje com foco principal em se
  <h2>Contact Me</h2>
 
 <p align="left">
-  <a href="mailto:programmeralice@gmail.com" alt="Gmail">
+  <a href="mailto:avss2@cin.ufpe.br" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&logo=Gmail&logoColor=white&link=mailto:avss2@cin.ufpe.br/" widht="30" height="25"/></a>
 
-  <a href="https://www.linkedin.com/in/alice-sales-8a0a26200/" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/alice-salessilva/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alice-salessilva/" widht="30" height="25"/></a>
 
   <a href="https://www.instagram.com/katespinhos/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/katespinhos/" widht="30" height="25"/></a>
- 
- <a href="https://discords.com/bio/p/9116" alt="Discord">
-  <img src="https://img.shields.io/badge/-Discord-7289DA?style=flat-square&labelColor=7289DA&logo=discord&logoColor=white&link=https://discords.com/bio/p/9116" widht="30" height="25"/></a>
  
  <img src="https://img.shields.io/static/v1?label=Overview&message=AliceSales&?color=894961style=for-the-badge&logo=GitHub" align="right">
 </p>
