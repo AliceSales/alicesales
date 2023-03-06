@@ -4,7 +4,7 @@ Na minha experiência, sempre foquei em desenvolver minha comunicação em equip
 Estudo desenvolvimento front-end há quase um ano, hoje com foco principal em semântica, acessibilidade e melhoria de performance.</h4>
  
 <div style="display: inline_block">
-  <h4> Apaixonada por livros, ukuleles, meu gatinho e Front-End.</h4>
+  <h4> Apaixonada por livros, ukuleles, eo meu gatinho</h4>
   <code>#NEVERSTOPLEARNING</code>
   <img src="https://i.pinimg.com/originals/aa/10/0c/aa100cce8f5d95078a6074c5b4ccf520.gif" width="300" height="300" border="0" alt="alice-gif" align="right"/>
 </div>
