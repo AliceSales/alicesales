@@ -1,23 +1,31 @@
- <h2> Oiii! Eu sou Alice!</h2>
- <h4>Estudante de Ciência da Computação no Centro de Informática da UFPE, mantenho interesse pelas áreas de desenvolvimento front-end, desenvolvimento mobile e acessibilidade.
-Na minha experiência, sempre foquei em desenvolver minha comunicação em equipe e autogestão.
-Estudo desenvolvimento front-end há quase um ano, hoje com foco principal em semântica, acessibilidade e melhoria de performance.</h4>
- 
+ <h3> Olá, seja bem-vindo(a) ao meu perfil no GitHub!</h3>
+    <img src="https://usagif.com/wp-content/uploads/gif/snwflks-106.gif" width="200" height="150" border="0" alt="alice-gif" align='right'/>
+
+ <h5>Sou uma desenvolvedora full stack apaixonada por tecnologia e sempre disposta a aprender coisas novas. Adoro conversar sobre qualquer coisa aleatória, então sinta-se à vontade para me mandar uma mensagem.
+</br>
+</br>
+Além da programação, sou uma ávida leitora, embora ultimamente tenha tido pouco tempo para me dedicar a isso. No entanto, sempre estou buscando sugestões de leitura, então se você tiver alguma dica, compartilhe comigo!
+</br>
+</br>
+Sou também uma entusiasta das comunidades de programação e apoio a mulheres na TI. Acredito que é importante dar suporte a todas as pessoas que desejam ingressar nessa área, especialmente para as mulheres que muitas vezes enfrentam barreiras e preconceitos.
+</br>
+</br>
+Então, se você está procurando alguém para conversar sobre tecnologia e outras coisas aleatórias, você encontrou a pessoa certa! Vamos construir uma comunidade mais inclusiva e diversa juntos.</h5>
+ </br>
 <div style="display: inline_block">
-  <h4> Apaixonada por livros, ukuleles, eo meu gatinho</h4>
-  <code>#NEVERSTOPLEARNING</code>
-  <img src="https://i.pinimg.com/originals/aa/10/0c/aa100cce8f5d95078a6074c5b4ccf520.gif" width="300" height="300" border="0" alt="alice-gif" align="right"/>
+  <code>Apaixonada por livros, ukuleles e meu gatinho</code>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Gay_Pride_Flag_-_Animated.gif/640px-Gay_Pride_Flag_-_Animated.gif" width="300" height="150" border="0" alt="alice-gif" align="right"/>
 </div>
 
   <br>
  <div style="display: inline_block">
-  <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/facebook/230/personal-computer_1f4bb.png" widht="40" height="40"/>
-  <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/facebook/65/books_1f4da.png" widht="40" height="40"/>
-  <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/mozilla/36/guitar_1f3b8.png" widht="40" height="40"/>
+  <img src="https://em-content.zobj.net/thumbs/120/lg/307/guitar_1f3b8.png" widht="40" height="40"/>
+  <img src="https://em-content.zobj.net/thumbs/120/apple/354/books_1f4da.png" widht="40" height="40"/>
+  <img src="https://em-content.zobj.net/thumbs/120/twitter/348/cat-face_1f431.png" widht="40" height="40"/>
  </div>
 </div>
 
- <h2>Tecnologies</h2>
+ <h2>Stack</h2>
 
   <!--ts-->
    <div style="display: inline_block">
@@ -27,10 +35,13 @@ Estudo desenvolvimento front-end há quase um ano, hoje com foco principal em se
      <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" widht="35" height="40"/>
      <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" widht="35" height="40"/>
      <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" widht="35" height="40"/>
+     <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" widht="35" height="40"/>
+     <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" widht="35" height="40"/>
+     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" widht="35" height="40"/>
    </div
   <!--te-->
-  
- <h2>Contact Me</h2>
+   
+ <h2>Contato</h2>
 
 <p align="left">
   <a href="mailto:avss2@cin.ufpe.br" alt="Gmail">
@@ -38,16 +49,15 @@ Estudo desenvolvimento front-end há quase um ano, hoje com foco principal em se
 
   <a href="https://www.linkedin.com/in/alice-salessilva/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alice-salessilva/" widht="30" height="25"/></a>
-
-  <a href="https://www.instagram.com/katespinhos/" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/katespinhos/" widht="30" height="25"/></a>
  
  <img src="https://img.shields.io/static/v1?label=Overview&message=AliceSales&?color=894961style=for-the-badge&logo=GitHub" align="right">
 </p>
-
+ 
+ 
 <div style="display: inline_block">
-  <img src="https://github-readme-stats.vercel.app/api?username=alicesales&show_icons=true&theme=whitegray" widht="250" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=alicesales&show_icons=true" widht="250" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alicesales&layout=compact&)](https://github.com/AliceSales/alicesales/blob/main/README.md" widht="250" height="180"/>
+ <img src="https://www.gifcen.com/wp-content/uploads/2022/06/anime-gif-4.gif" align="left " width="150" height="150">
 </div>
 
 <!--
