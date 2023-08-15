@@ -1,5 +1,5 @@
  <h3> Olá, seja bem-vindo(a) ao meu perfil no GitHub!</h3>
-    <img src="https://usagif.com/wp-content/uploads/gif/snwflks-106.gif" width="200" height="150" border="0" alt="alice-gif" align='right'/>
+    <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/8ce4e7111165503.5ffcee08c0691.gif" width="200" height="250" border="0" alt="alice-gif" align='right'/>
 
  <h5>Sou uma desenvolvedora full stack apaixonada por tecnologia e sempre disposta a aprender coisas novas. Adoro conversar sobre qualquer coisa aleatória, então sinta-se à vontade para me mandar uma mensagem.
 </br>
@@ -7,7 +7,7 @@
 Além da programação, sou uma ávida leitora, embora ultimamente tenha tido pouco tempo para me dedicar a isso. No entanto, sempre estou buscando sugestões de leitura, então se você tiver alguma dica, compartilhe comigo!
 </br>
 </br>
-Sou também uma entusiasta das comunidades de programação e apoio a mulheres na TI. Acredito que é importante dar suporte a todas as pessoas que desejam ingressar nessa área, especialmente para as mulheres que muitas vezes enfrentam barreiras e preconceitos.
+Sou também uma entusiasta das comunidades de programação e apoio a mulheres na TI. Acredito que é importante dar suporte a todas as pessoas que desejam ingressar nessa área.
 </br>
 </br>
 Então, se você está procurando alguém para conversar sobre tecnologia e outras coisas aleatórias, você encontrou a pessoa certa! Vamos construir uma comunidade mais inclusiva e diversa juntos.</h5>
