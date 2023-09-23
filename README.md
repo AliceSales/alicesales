@@ -1,5 +1,5 @@
- <h3> Olá, seja bem-vindo(a) ao meu perfil no GitHub!</h3>
-    <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/8ce4e7111165503.5ffcee08c0691.gif" width="200" height="250" border="0" alt="alice-gif" align='right'/>
+ <h3>Olá, seja bem-vindo(a) ao meu perfil no GitHub!</h3>
+ <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/8ce4e7111165503.5ffcee08c0691.gif" width="200" height="250" border="0" alt="alice-gif" align='right'/>
 
  <h5>Sou uma desenvolvedora full stack apaixonada por tecnologia e sempre disposta a aprender coisas novas. Adoro conversar sobre qualquer coisa aleatória, então sinta-se à vontade para me mandar uma mensagem.
 </br>
@@ -14,7 +14,6 @@ Então, se você está procurando alguém para conversar sobre tecnologia e outr
  </br>
 <div style="display: inline_block">
   <code>Apaixonada por livros, ukuleles e meu gatinho</code>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Gay_Pride_Flag_-_Animated.gif/640px-Gay_Pride_Flag_-_Animated.gif" width="300" height="150" border="0" alt="alice-gif" align="right"/>
 </div>
 
   <br>
@@ -57,7 +56,6 @@ Então, se você está procurando alguém para conversar sobre tecnologia e outr
 <div style="display: inline_block">
   <img src="https://github-readme-stats.vercel.app/api?username=alicesales&show_icons=true" widht="250" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alicesales&layout=compact&)](https://github.com/AliceSales/alicesales/blob/main/README.md" widht="250" height="180"/>
- <img src="https://www.gifcen.com/wp-content/uploads/2022/06/anime-gif-4.gif" align="left " width="150" height="150">
 </div>
 
 <!--
