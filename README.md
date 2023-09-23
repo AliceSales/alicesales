@@ -10,8 +10,6 @@ Além da programação, sou uma ávida leitora, embora ultimamente tenha tido po
 Sou também uma entusiasta das comunidades de programação e apoio a mulheres na TI. Acredito que é importante dar suporte a todas as pessoas que desejam ingressar nessa área.
 </br>
 </br>
-Então, se você está procurando alguém para conversar sobre tecnologia e outras coisas aleatórias, você encontrou a pessoa certa! Vamos construir uma comunidade mais inclusiva e diversa juntos.</h5>
- </br>
 <div style="display: inline_block">
   <code>Apaixonada por livros, ukuleles e meu gatinho</code>
 </div>
