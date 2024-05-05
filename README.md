@@ -34,7 +34,9 @@ Sou também uma entusiasta das comunidades de programação e apoio a mulheres n
      <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" widht="35" height="40"/>
      <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" widht="35" height="40"/>
      <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" widht="35" height="40"/>
+     <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" widht="35" height="40"/>
      <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" widht="35" height="40"/>
+     <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" widht="35" height="40"/>
    </div
   <!--te-->
    
