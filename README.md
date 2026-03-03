@@ -53,12 +53,7 @@ Sou também uma entusiasta das comunidades de programação e apoio a mulheres n
  
  <img src="https://img.shields.io/static/v1?label=Overview&message=AliceSales&?color=894961style=for-the-badge&logo=GitHub" align="right">
 </p>
- 
- 
-<div style="display: inline_block">
-  <img src="https://github-readme-stats.vercel.app/api?username=alicesales&show_icons=true" widht="250" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alicesales&layout=compact&)](https://github.com/AliceSales/alicesales/blob/main/README.md" widht="250" height="180"/>
-</div>
+
 
 <!--
 **AliceSales/alicesales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
